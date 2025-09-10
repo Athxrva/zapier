@@ -1,4 +1,4 @@
-## TODOS
+## TODOS - cross check for confirmation
 1. Send the user a verification email, make them verify email before signing them up
  - Add a new field in the DB called verify, and only if user is verified should they be ablt to login
 2. Let user reset their password through email
